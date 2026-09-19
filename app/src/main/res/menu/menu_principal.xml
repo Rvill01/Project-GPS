@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_ver_rutas"
+            android:title="Gestionar rutas"
+            android:icon="@android:drawable/ic_menu_mapmode" />
+
+        <item
+            android:id="@+id/nav_crear_ruta"
+            android:title="Crear nueva ruta"
+            android:icon="@android:drawable/ic_menu_add" />
+    </group>
+</menu>
+
